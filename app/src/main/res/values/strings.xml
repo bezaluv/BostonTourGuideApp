@@ -1,0 +1,173 @@
+<resources>
+    <string name="app_name">BostonTourGuideApp</string>
+    <string name="category_eat">Eat</string>
+    <string name="category_play">Play</string>
+    <string name="category_stay">Stay</string>
+    <string name="category_shop">Shop</string>
+    <string name="category_tour">Tour</string>
+    <string name="boston">Boston, MA</string>
+    <string name="about_boston">About Boston</string>
+
+    <!-- Info about Boston -->
+    <string name="city">Boston is Massachusetts\' capital and largest city.Founded in 1630,
+    it\'s one of the oldest cities in the U.S. The key role it played in the American Revolution
+     is highlighted in the Freedom Trail, a 2.5 mile walking route of history sites that tells
+    the story of the nation\'s founding.One stop, former meeting house is Faneuil Hall, is
+    a popular marketplace."Beantown" is home to Symphony Hall, where the legendary Boston Pops
+    orchestra performs, and Fenway Park, where the beloved Red Sox baseball team plays.
+    Famous cultural institutions include the Museum of Fine Arts, Museum of Science, and the
+    Isabella Stewart Gardner Museum, housing a world-class collection in a space designed like
+    a 15th-century Venetian palazzo.</string>
+    <string name="sky">Blue Sky</string>
+    <string name="homes">Boston Homes on the charles and mystic rivers</string>
+    <string name="weather_in_boston">Weather in Boston</string>
+    <string name="seasons">SPRING\nAverage temperatures: 58°F to 72°F\nSpring is the Boston
+        area\'s most spectacular time of the year. From early March into early June, enjoy the
+        vibrant colors of azaleas, dogwoods and other flowers in bloom.\n\nSUMMER\nAverage
+        temperatures: 78°F to 80°F\nThe Boston region\'s warm, sultry summers are punctuated
+        by cooling coastal breezes and passing afternoon winds - all of which invite
+        visitors to slow down, sip something refreshing and relax for a while.\n\nFall\nAverage
+        temperatures: 58°F to 76°F\nFall in the Boston region brings with it days of bright
+        sunshine, clear blue skies, golden marshes and perfectly crisp evenings.\n\nWINTER\nAverage
+        temperatures: 10°F to 29°F\nTypically mild, winters in the Boston region are cold with
+        periods of rain and the chance of snow flurries or heavy at times come late December or
+        early January. January is the coldest.</string>
+    <string name="image_of_item">Image of Item</string>
+    <string name="dividing_bar">Dividing Bar</string>
+    <string name="antico_forno"> Antico Forno </string>
+    <string name="antico_forno_address">93 Salem Street\nBoston,MA</string>
+    <string name="antico_forno_phone">(617) 723  &#8211;6733 </string>
+    <string name="antico_forno_info">Located in Boston\'s North End, Antico Forno\'s specialty is
+        Southern Italian cuisine,distinctly fresh and savory.In an atmosphere that is casual and
+        relaxed, enjoy delicious food,with reasonable prices. The first glimpse of the wood-burning
+        stove warms the soul and gives an immediate boost to the appetite. Full bar, private dining room,
+        reservations recommended.</string>
+    <string name="antico_forno_website">https://www.anticofornoboston.com/</string>
+    <string name="legal_sea_foods">Legal Sea Foods</string>
+    <string name="legal_sea_foods_address">1 Seafood Way\nBoston ,MA</string>
+    <string name="legal_sea_foods_phone">(617) 530 &#8211;9000 </string>
+    <string name="legal_sea_foods_info">The signature dish at Legal Sea Foods – really fresh fish.
+       With over 40 varieties of fresh fish and shellfish available throughout the year as well
+        as an award-winning wine list, there’s no doubt why legions of fans have fallen hook,
+        line and sinker.#1 Best Seafood Restaurant” (USA Today, 2013), “Most Popular Boston Restaurant</string>
+    <string name="legal_sea_foods_website">https://www.legalseafoods.com/</string>
+    <string name="boston_chops">Boston Chops</string>
+    <string name="Boston_chops_address">1375 Washington Street\nBoston,MA</string>
+    <string name="boston_chops_phone">(617) 227 &#8211;5011 </string>
+    <string name="boston_chops_info">An urban steak bistro, a casual, yet refined twist for which
+        steakhouses are well-known.</string>
+    <string name="boston_chops_website">http://www.bostonchops.com/</string>
+    <string name="charles_river">Charles River</string>
+    <string name="boston_common">Boston Common Park</string>
+    <string name="neaquarium">New England Aquarium</string>
+    <string name="charles_river_address">Storrow Drive,Boston,MA</string>
+    <string name="boston_common_address">139 Tremont Street\nBoston,MA </string>
+    <string name="neaquarium_address">1 Central Wharf,Boston,MA</string>
+    <string name="charles_river_phone">(617)635 &#8211;4505</string>
+    <string name="boston_common_phone">(617) 635 &#8211;4505</string>
+    <string name="neaquarium_phone">(617) 973 &#8211;5200</string>
+    <string name="charles_river_website">https://www.criver.com/</string>
+    <string name="boston_common_website">https://www.boston.gov/parks/boston-common</string>
+    <string name="neaquarium_website">http://www.neaq.org//</string>
+    <string name="charles_river_info">
+The Charles River flows 80 miles from Hopkinton, Mass. to Boston Harbor. The Charles River is the most
+        prominent urban river in New England. It is a major source of recreation and a readily-available
+        connection to the natural world for residents of the Boston metropolitan area. The entire
+        Charles River drains rain and melted snow from a watershed area of 310 square miles.
+        Two hundred and sixty-eight square miles of that watershed area drain over the Watertown Dam
+        into the Lower Charles River. </string>
+    <string name="boston_common_info">Boston Common is a central public park in downtown Boston, Massachusetts.
+        It is sometimes erroneously referred to as the Boston Commons. Dating from 1634, it is the
+        oldest city park in the United States.Families come to this treasured remnant of 17th century
+        Boston for leisure – to stroll, jog, skate on the Frog Pond, and play in the ball fields. </string>
+    <string name="neaquarium_info">The New England Aquarium is an aquarium located in Boston, Massachusetts.
+        In addition to the main aquarium building, attractions at the New England Aquarium include
+        the Simons IMAX Theatre and the New. The new England Aquarium is home to thousands of aquatic
+        animals–from striped pyjama Sharks to giant Pacific octopus to little blue penguins.</string>
+    <string name="faneuil_hall">Faneuil Hall Market Place</string>
+    <string name="boston_farmers">Boston Farmers market</string>
+    <string name="shops">Shops In Boston</string>
+    <string name="faneuil_hall_address">4 S Market St,\nBoston, MA</string>
+    <string name="boston_farmers_address">100 Hanover St,\nBoston, MA</string>
+    <string name="shops_address">800 Boylston St,\nBoston, MA</string>
+    <string name="faneuil_hall_phone">(617) 523 &#8211;1300</string>
+    <string name="boston_farmers_phone"> (617) 973 &#8211;4909</string>
+    <string name="shops_phone"> (617) 236 &#8211;3100</string>
+    <string name="faneuil_hall_website">https://faneuilhallmarketplace.com/</string>
+    <string name="boston_farmers_website">https://bostonpublicmarket.org/</string>
+    <string name="shops_website">http://www.prudentialcenter.com/</string>
+    <string name="faneuil_hall_info">Located in the heart of downtown Boston, Faneuil Hall Marketplace
+        is adjacent to historic Faneuil Hall and is bordered by the financial district, the waterfront,
+        the North End, Government Center and Haymarket. It is a well-traveled part of Boston’s “Freedom Trail.
+        The Marketplace is a five-minute walk to the New England Aquarium, The Children’s Museum,
+        The Old State House, and Paul Revere’s House.”</string>
+    <string name="boston_farmers_info">The Boston Public Market is an indoor, year-round marketplace
+        featuring 35 New England artisans and food producers housed under one roof offering fresh foods,
+        prepared meals, crafts, and specialty items. Residents and visitors alike can find seasonal,
+        locally sourced food from Massachusetts and New England, including fresh produce, meat and
+        poultry, eggs, dairy, seafood, baked goods, specialty items, crafts, and prepared breakfast,
+        lunch, and dinner options. Everything sold at the Market is produced or originates in New England.</string>
+    <string name="shops_info">
+For those of you who favor urban chic, the traditional and classic or upscale funky, our shops and
+        stores are certain to please. The quality and versatility of our imaginative boutiques,
+        eclectic galleries and prestigious department stores are only rivaled by our distinctive
+        shopping districts where you can browse the glass-enclosed arcades at Copley Place, Prudential
+        Center and CambridgeSide Galleria, meander the open-air Faneuil Hall Marketplace, Legacy Place
+        and Patriot Place and seasonal artisan pop-ups and stroll the brownstone boutiques and shops
+        along Newbury and Charles Streets. </string>
+    <string name="omni_parker_house">Omni Parker House</string>
+    <string name="marlowe">Kimpton Hotel Marlowe</string>
+    <string name="ames">Ames Boston Hotel</string>
+    <string name="omni_address">60 School St, Boston, MA</string>
+    <string name="marlowe_address">25 Edwin H Land Blvd, Cambridge, MA </string>
+    <string name="ames_address">1 Court St, Boston, MA</string>
+    <string name="omni_phone">(617) 227 &#8211;8600</string>
+    <string name="marlowe_phone"> (617) 868 &#8211;8000</string>
+    <string name="ames_phone"> (617) 979 &#8211;8100</string>
+    <string name="omni_website">https://www.omnihotels.com/hotels/boston-parker-house</string>
+    <string name="marlowe_website">http://www.hotelmarlowe.com/</string>
+    <string name="ames_website">www.amesbostonhotel.com</string>
+    <string name="omni_info">A legendary symbol in downtown Boston since 1855, Omni Parker House
+        boasts old-world charm and elegance accompanied by all of the modern conveniences of a
+        world-class establishment. Nestled in the heart of our historic city, we’re located along the
+        Freedom Trail and at the foot of Beacon Hill, Boston Common, Quincy Market and Faneuil Hall
+        Marketplace. Logan International Airport is just 2.3 miles away.</string>
+    <string name="marlowe_info">Our guests’ curiosities are piqued from the moment they enter our
+        welcoming courtyard, which happens to showcase a 25-foot-tall sculpture named Celeste that
+        moves and lights up. Based upon this awe-inspiring first impression, it quickly becomes clear
+        that we encourage a sense of discovery and exploration that perfectly complements our storied
+        Boston home. Visitors immediately learn to love our riverside Cambridge hotel’s decadent and
+        engaging and intuitive style and level of service that elevates the experience time and again.</string>
+    <string name="ames_info">Blending modern style in a historic building, Ames Boston Hotel, Curio
+        Collection by Hilton provides a luxurious, boutique setting with a refined yet playful
+        atmosphere. The Romanesque architectural styling combines with modern, sleek elements creating
+        a unique vibe in the heart of downtown.</string>
+    <string name="duck_tours">Duck Tours</string>
+    <string name="harbor_cruises">Harbor Cruises</string>
+    <string name="freedom_trail">The Freedom Trail</string>
+    <string name="duck_tours_address">4 Copley Pl #4155,\nBoston, MA</string>
+    <string name="harbour_cruises_address">62 Long Wharf,\nBoston, MA</string>
+    <string name="freedom_trail_address">44 School St #250,\nBoston, MA</string>
+    <string name="duck_tours_phone">(617) 267 &#8211;3825</string>
+    <string name="harbor_cruises_phone"> (617) 227 &#8211;4321</string>
+    <string name="freedom_trail_phone"> (617) 357 &#8211;8300</string>
+    <string name="duck_tours_website">http://www.bostonducktours.com/</string>
+    <string name="harbor_cruises_website">https://www.bostonharborcruises.com/</string>
+    <string name="freedom_trail_website">http://www.thefreedomtrail.org</string>
+    <string name="duck_tours_info">Boston Duck Tours is a great way to start off your visit to Boston.
+        We give you a great overview of the city, show you many unique neighborhoods and splash you
+        into the Charles River for a breathtaking view of the Boston and Cambridge skylines.</string>
+    <string name="harbor_cruises_info">For more than 90 years, BHC and the Nolan family have been leading
+        the way with outstanding cruises on Boston’s historic harbor. What began with a man, a boat
+        and a vision has grown into today’s BHC; with 500 daily departures, 53 vessels and 250
+        year-round employees, plus a seasonal workforce topping 650</string>
+    <string name="freedom_trail_info">Welcome to the Freedom Trail, a 2.5-mile, red-lined route that
+        leads you to 16 historically significant sites — each one an authentic treasure. Explore
+        museums and meetinghouses, churches, and burying grounds. Learn about the brave people who
+        shaped our nation. Discover the rich history of the American Revolution, as it began in
+        Boston, where every step tells a story. </string>
+    <string name="explore">Explore</string>
+    <string name="about">About</string>
+    <string name="weather">Weather</string>
+</resources>
+
